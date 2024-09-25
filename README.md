@@ -1,4 +1,4 @@
-# Sistema de Gestión de Restaurantes y Menús - API REST AUTH
+# Sistema de gestión para restaurantes - API REST AUTH
 
 ## Descripción
 
