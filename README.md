@@ -310,7 +310,7 @@ La aplicación se conecta a una base de datos MongoDB. Asegúrate de que la cone
 **1. Clonar el repositorio y configurar el entorno**
 
 ```bash
-git clone https://github.com/tu_usuario/proyecto-7-api-rest-auth.git
+git clone https://github.com/marugandev/proyecto-7-API-REST-AUTH.git
 cd proyecto-7-api-rest-auth
 ```
 
